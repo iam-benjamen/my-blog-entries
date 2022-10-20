@@ -28,7 +28,7 @@ Almost all events in Javascript exhibit this behavior, with the exception of ver
 
 **event.target()**: This method is used to obtain the element that dispatched a certain event. Keep it in mind, it plays a crucial role in event delegation as we will soon practice.
 
-###Event Delegation in action
+### Event Delegation in action
 The event delegation pattern works by `adding the Event listener to the common parent of the elements` and `determining what element originated the event using event.target()`. Say we have three buttons instead of the single one we had in the previous example.
 ```
 <!DOCTYPE html>
