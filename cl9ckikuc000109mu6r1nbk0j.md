@@ -14,13 +14,13 @@ Let's see a simple example of how Javascript can directly manipulate static cont
 
 %[https://codepen.io/iam-benjamen/embed/preview/bGMJBPo?default-tab=html%2Cresult&editable=true&theme-id=dark]
 
-We add a click event listener method to the button that triggers a callback function, altering the background color everytime the button is clicked. Pretty simple, right?  Feel free to play around with the Javascript code! Let's get into `Event Delegation` proper.
+We add a click event listener method to the button that triggers a callback function, altering the background color every time the button is clicked. Pretty simple, right?  Feel free to play around with the Javascript code! Let's get into `Event Delegation` properly.
 
 ## Event Delegation
-What happens when we have to attach an event listener to many elements at once? Surely, it doesn't make sense to attach the functions to each of them seperately. Event Delegation is a code pattern that helps to handle dom manipulation in a batch. A proper definition:  *Event delegation refers to the process of using event propagation (bubbling) to handle events at a higher level in the DOM than the element on which the event originated*.
+What happens when we have to attach an event listener to many elements at once? Surely, it doesn't make sense to attach the functions to each of them separately. Event Delegation is a code pattern that helps to handle dom manipulation in a batch. A proper definition:  *Event delegation refers to the process of using event propagation (bubbling) to handle events at a higher level in the DOM than the element on which the event originated*.
 
 #### What is Bubbling?
-The Bubbling concept is quite simple. When an event is fired on an element - the handlers are first run on it, then on the immediate ancestors of that element, up till the document object.  Consider the example below, when a click event is triggered on inner `P` element - it propagates to its parents. `click on the p box for demonstration`
+The Bubbling concept is quite simple. When an event is fired on an element - the handlers are first run on it, then on the immediate ancestors of that element, up till the document object.  Consider the example below, when a click event is triggered on the inner `P` element - it propagates to its parents. `click on the p box for demonstration`
 
 %[https://codepen.io/iam-benjamen/embed/preview/mdLgWVK?default-tab=result&editable=true&theme-id=dark]
 
@@ -77,7 +77,7 @@ button_container.addEventListener('click', function(e){
 })
 ```
 Remember, the two steps are:
-1. Add Event handler to the parent element
+1. Add an Event handler to the parent element
 2. determine where the event originated from using `event.target`
 
 Now, let's put it all together and see the result. 
@@ -86,6 +86,6 @@ Now, let's put it all together and see the result.
 
 Amazing, right? A single event listener function serving all three buttons at once!
 
-## CONCLUSION
-Hopefully, you have gained a more robust understanding of Event delegation through this article. In the next article, we willl implement tabbed components using the event delegation pattern. Do well to bookmark this article and follow me for updates. 
+## Conclusion
+Hopefully, you have gained a more robust understanding of Event delegation through this article. In the next article, we will implement tabbed components using the event delegation pattern. Do well to bookmark this article and follow me for updates. 
 Thank you for reading. Your comments and suggestions are most welcome. Cheers! 
