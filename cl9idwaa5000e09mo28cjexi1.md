@@ -1,4 +1,4 @@
-# Understanding the Internet (Part 2- Transmission)
+# Understanding the Internet II (Transmission)
 
 ## Summary
 In the last release of this series, we opened a discussion about the Internet, defining it as a network of interconnected computers exchanging resources(data). We also clarified the difference between the Internet and the world wide web. And finally, we took a detour into the web and looked at some of the essential components that enable it to work seamlessly. 
