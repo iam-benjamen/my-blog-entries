@@ -40,7 +40,7 @@ The scheduling of an Ultralearning project can be full-time or part-time, but th
 
 The Author exposes nine universal principles that underlie the strategy of learning described so far, these principles form a basis for any Ultralearning project learners embark on and how to maximize efficiency.
 
-#### META-LEARNING (*First Draw a Map*)
+#### Meta-Learning - First Draw a Map
 
 Proper research of the subject of learning helps to give direction to the learner’s quest and save time down the line. Many uncompleted learning projects result from failing to count the cost at the beginning of the journey. This step aims at answering the question WHY, WHAT, and HOW.
 
@@ -51,26 +51,26 @@ Proper research of the subject of learning helps to give direction to the learne
 *   **How** refers to the resources, environment, and methods needed, these vary depending on the kind of subject being studied. It is advised to spend 10 percent of the total time allotted to the learning project on meta-learning - gathering facts and counsel from experts and drawing up a comprehensive roadmap for the journey ahead.
     
 
-#### FOCUS (*Sharpen Your Knife*)
+#### Focus - Sharpen Your Knife
 
 The usual initial excitement a learner experiences at the beginning of the journey soon fades out as he is faced with distractions, emotional swings, roadblocks, and many other factors that threaten the completion of the learning project. Ultralearning thrives on laser focus, the ability to “*start, sustain and optimize the quality of one’s focus*”. The problem of starting is called procrastination, an aversion to certain tasks or a craving to do something else. Discipline is required to ensure the chunks of time dedicated to learning are well utilized for efficiency.
 
 [Cal Newport](https://www.calnewport.com/books/deep-work/) in his book [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) offers very practical models to ensure learning sessions are effective. He describes Deep Work as “*the ability to focus without distraction on a cognitively demanding task. It is a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship*” Focus is not a function of the amount of time available for learning, rather it is the ability to maximize the time allotted.
 
-#### DIRECTNESS (*Go Straight Ahead*)
+#### Directness - Go Straight ahead
 
 *“Directness is the idea of learning being tied closely to the situation or context you want to use it in”*. Naturally, It is easier to go for more fun and less stressful mode of learning, like playing with a language app instead of actually conversing with people, reading a book about public speaking instead of actually speaking, and watching coding tutorials instead of building apps. We avoid the difficulty of these tasks and hope that by engaging in less strenuous activities, we can transfer the knowledge to real-life scenarios, but it doesn't work! In my case, I was coding along with tutorials and watching videos all day, hoping that somehow the skill would stick with me.
 
 The error of the traditional mode of learning found in institutions of learning is assuming knowledge can be transferred, teaching theories, and assuming students can transfer the knowledge when it is required in practice. Schools have produced students who are theoretically knowledgeable but lack the practical skills required to thrive in the outside world. Speaking from experience, directness can be difficult at first, especially if the learner is a beginner, but it is a proven way to make real progress. Speak that language to someone today, start that project today. You may struggle with it - but that's what learning truly is when it starts. Some ways of being direct in learning include:
 
-1.  Project-based learning: this usually involves organizing your learning around producing something. Learn Python to build a web scraper or a game, or JavaScript to build your favorite website.
+1.  **Project-based learning**: this usually involves organizing your learning around producing something. Learn Python to build a web scraper or a game, or JavaScript to build your favorite website.
     
-2.  Immersive Learning: this involves being in an environment that encourages what is being learned and challenges the learner. Joining communities, and contributing to open-source projects(for programmers) are some ways to practice immersive learning
+2.  **Immersive Learning**: this involves being in an environment that encourages what is being learned and challenges the learner. Joining communities, and contributing to open-source projects(for programmers) are some ways to practice immersive learning
     
-3.  Overkill Approach: this involves optimizing directness by increasing the challenge slightly more than the learner's current level of knowledge and experience thereby pushing the learner beyond their limits.
+3.  **Overkill Approach**: this involves optimizing directness by increasing the challenge slightly more than the learner's current level of knowledge and experience thereby pushing the learner beyond their limits.
     
 
-#### DRILL (*Attack Your Weakest Point*)
+#### Drill - Attack Your Weakness
 
 This strategy involves identifying the aspects that pose the greatest challenge in your learning adventure and giving them special attention. The Author alludes to the concept of Rate determining step in Chemistry to explain this concept. The Rate determining step is usually the slowest part of the reaction chain and largely determines how long the reaction will take (apologies to readers who have never been to chemistry class). For example, in learning a language, vocabulary may pose the greatest challenge to the learner, it would then be strategic to isolate the concept and dwell on it for a substantial amount of time.
 
@@ -78,7 +78,7 @@ JavaScript, for example, is reputed for its difficulty to master. I certainly di
 
 > Drills require the learner not only to think deeply about what is being learned but also figure out what is most difficult and attack that weakness directly rather than focus on what is the most fun or what has already been mastered.
 
-#### RETRIEVAL (*Test to Learn*)
+#### Retrieval - Test to Learn
 
 William James, a popular Psychologist opines that *"It pays better to wait and recollect by an effort from within than to look at the book again."*. This statement definitely invokes some serious thoughts about learning. A student preparing for an exam feels comfortable reviewing his notes over and over instead of closing the books and trying to retrieve information from memory. Surprisingly, experiments have shown that students who practice retrieval outperform passive reviewers. A possible explanation is that retrieval comes with feedback, the learner suddenly realizes the gaps in knowledge and fills them in before the next test of memory.
 
@@ -86,11 +86,11 @@ How many students thought they understood a course, only to get into the exam an
 
 > By preventing yourself from consulting the source, the information becomes knowledge stored inside your head instead of inside a reference manual.
 
-#### FEEDBACK (*Don’t Dodge the Punches*)
+#### Feedback - Don't Dodge the Punches
 
 Feedbacks are a feared part of learning and rightly so, no one loves to be criticized. There are many unposted articles, unachieved goals, and unwritten books stifled by the fear of criticism. Ask any expert in any field of human endeavor and they will confirm that feedback was a major component of their growth. The ability to see beyond the, sometimes negative feedback and hold on to the facts can help learners improve geometrically. Not every feedback is useful, but some feedback can help your journey as a learner. I have learned to sift through the feedback in good faith and improve where necessary. A bruised ego is a small price to pay for growth and the joy of achieving set goals.
 
-#### RETENTION (*Don’t fill a leaky Bucket*)
+#### Retention - Don't Fill a Leaky Bucket
 
 Why is it so hard to remember things? How do we humans forget things previously memorized? Experiments have shown at least three major reasons for losing access to previously-available information.
 
@@ -112,13 +112,13 @@ How then do we prevent forgetting? How do we ensure hard-acquired skills are not
 4.  **Imagery** - It is said that a picture holds a thousand words, *"translating abstract concepts to vivid pictures or spatial maps"* is a great strategy for retaining information long-term.
     
 
-#### INTUITION (*Dig Deep Before Building Up*)
+#### Intuition - Dig Deep Before Building up
 
 Have you ever marveled at how fast an expert thinks and solves seemingly difficult problems at a glance? How a chess grandmaster can see impossible moves many steps ahead of their opponents or how a senior software engineer can pinpoint and fix complex bugs in no time? The power of Intuition is incredible.
 
 Intuition is instinctive knowing, knowing without the use of rational processes. Richard Feynman was a man known for his jaw-dropping intuitive prowess. He was known as a human calculator as he could give answers to random difficult math problems such as “e to the power of 3.3" faster than the calculator. He was also notorious for cracking encoded safes and fixing dead electronics.
 
-But inside the mind of those regarded as geniuses, research has shown replicable processes, proof that intuition can be developed. Experts excel because they have amassed a large bank of information and patterns from real experience. *S*imply spending a lot of time studying something isn't enough to create a deep intuition*,* Memorizing code or solutions to problems does not develop intuition.
+But inside the mind of those regarded as geniuses, research has shown replicable processes, proof that intuition can be developed. Experts excel because they have amassed a large bank of information and patterns from real experience. *S*imply spending a lot of time studying something isn't enough to create a deep intuition\*,\* Memorizing code or solutions to problems does not develop intuition.
 
 Understanding concepts must be deep to develop intuition in the long term. Digging deep to actually understand how things work is very important for learners who want to become experts in the subject being studied. Every complex concept is built from basic principles and understanding them sometimes requires breaking them down into these fundamental principles and then building them up. Some tips.
 
@@ -131,7 +131,7 @@ Understanding concepts must be deep to develop intuition in the long term. Diggi
 4.  Don’t Fool Yourself
     
 
-#### EXPERIMENTATION (*Explore Outside your Comfort Zone*)
+#### Experimentation - Explore outside your Comfort Zone
 
 *"When starting to learn a new skill, often it’s sufficient simply to follow the example of someone who is further along than you"*
 
