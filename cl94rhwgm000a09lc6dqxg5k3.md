@@ -6,7 +6,7 @@ In this article, I review the core ideas of [Scott H. Young’s](https://www.sco
 
 ## Introduction
 
-My journey into self-education became earnest in 2020 when I decided to acquire a new skill and transition into software engineering after a stint with Data Analytics. For the first few weeks, I enjoyed combing through resources online: books, video tutorials, and websites with useful resources I could find.
+My journey into self-education became earnest in 2020 when I decided to acquire a new skill and transition into software engineering after a stint in Data Analytics. For the first few weeks, I enjoyed combing through resources online: books, video tutorials, and websites with useful resources I could find.
 
 After completing my courses, it was time to build personal projects! I found myself fumbling through the materials I thought I had understood and concepts I thought I had mastered. Then began a cycle of frustration and abandoned projects. For the first time, I realized how terrible I was at learning new things. It is easy to assume that the process of acquiring technical skills is not different from the conventional way of obtaining knowledge in the school system. I was wrong.
 
