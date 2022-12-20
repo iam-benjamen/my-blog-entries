@@ -2,7 +2,7 @@
 
 ## Summary
 
-In this article, I explain and illustrate a very useful concept in Javascript - `Event Delegation`. An understanding of Javascript Fundamental concepts such as variable declaration, control flow, Array methods, and DOM (Document Object Model) manipulation is required to follow through with the article.
+In this article, I explain and illustrate a very useful concept in Javascript - `Event Delegation`. An understanding of Javascript Fundamental concepts such as Variable declaration, control flow, Array methods, and DOM (Document Object Model) manipulation is required to follow through with the article.
 
 ## Introduction
 
@@ -34,14 +34,32 @@ Almost all events in Javascript exhibit this behavior, with the exception of ver
 
 ### Event Delegation in action
 
-The event delegation pattern works by `adding the Event listener to the common parent of the elements` and `determining what element originated the event using event.target()`. Say we have three buttons instead of the single one we had in the previous example. \`\`\`
+The event delegation pattern works by `adding the Event listener to the common parent of the elements` and `determining what element originated the event using event.target()`. Say we have three buttons instead of the single one we had in the previous example.
 
-I'm colored red I'm colored red I'm colored red
+```javascript
+//Event handler function 
+function handleClick(e) { 
+    const clicked_button = e.target; 
+    if (current) { 
+       clicked_button.textContent = "I'm colored blue";                                               
+       clicked_button.style.backgroundColor = "blue"; 
+       current = !current; 
+    } else { 
+      clicked_button.textContent = "I'm colored red";    
+      clicked_button.style.backgroundColor = "red"; 
+      current = !current; } 
+   }
 
-//Event handler function function handleClick(e) { const clicked\_button = e.target; if (current) { clicked\_button.textContent = "I'm colored blue"; clicked\_button.style.backgroundColor = "blue"; current = !current; } else { clicked\_button.textContent = "I'm colored red"; clicked\_button.style.backgroundColor = "red"; current = !current; } }
+//Add Event handler to the parent element 
+button_container.addEventListener('click', function(e){ 
+    //determine where the event originated from 
+    if(e.target.classList.contains("colored_button")){ 
+        handleClick(e) 
+      }
+})
+```
 
-//Add Event handler to the parent element button\_container.addEventListener('click', function(e){ //determine where the event originated from if(e.target.classList.contains("colored\_button")){ handleClick(e) }  
-}) \`\`\` Remember, the two steps are:
+Remember, the two steps are:
 
 1.  Add an Event handler to the parent element
     
