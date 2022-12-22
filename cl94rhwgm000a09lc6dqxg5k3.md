@@ -1,4 +1,4 @@
-# Mastering The Art Of Learning.
+# Mastering The Art Of Learning
 
 ## Summary
 
