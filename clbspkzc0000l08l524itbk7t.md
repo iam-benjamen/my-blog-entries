@@ -1,4 +1,4 @@
-# How to Set up Web Analytics for your React Website using Google Analytics and Tag Manager.
+# How to Set up Web Analytics for your React Website using Google Analytics and Tag Manager
 
 # Introduction
 
