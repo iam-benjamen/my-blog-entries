@@ -6,4 +6,5 @@ A collection of my blog post on hashnode.
 4. Understanding the Internet (Part 2)
 5. Why I build with Next.js
 6. What is Per-Page Layouts in Next.js
+7. Traversing the DOM.
 
