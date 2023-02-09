@@ -7,4 +7,5 @@ A collection of my blog post on hashnode.
 5. Why I build with Next.js
 6. What is Per-Page Layouts in Next.js
 7. Traversing the DOM.
-
+8. How to Set up Web Analytics for your React Website using Google Analytics and Tag Manager
+9. Efficient Script Loading in Javascript
